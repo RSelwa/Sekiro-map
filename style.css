@@ -1,0 +1,83 @@
+body {
+  background-color: #f0e1a6;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  text-align: center;
+}
+
+.idol {
+  width: 50px;
+  height: 50px;
+  background-color: aqua;
+  border-radius: 999px;
+  position: absolute;
+  transform-origin: center;
+}
+.line {
+  stroke: #222;
+  stroke-width: 2px;
+  display: block;
+}
+.lin {
+  stroke: #222;
+  display: block;
+  stroke-width: 20px;
+  height: 20px;
+  background-color: red;
+  width: 2px;
+}
+#hPath {
+  left: 77px;
+  top: 485px;
+}
+#hBamboo {
+  left: 151px;
+  top: 388px;
+}
+#hHall {
+  left: 51px;
+  top: 382px;
+}
+#hChamber {
+  left: 139px;
+  top: 324px;
+}
+
+#hEst {
+  left: 50px;
+  top: 566px;
+}
+
+#hTemple {
+  left: 103px;
+  top: 190px;
+}
+#aTemple {
+  left: 200px;
+  top: 600px;
+}
+#aOutskirts {
+  left: 283px;
+  top: 580px;
+}
+#aPath {
+  left: 361px;
+  top: 600px;
+}
+#aStairway {
+  left: 354px;
+  top: 480px;
+}
+#aValley {
+  left: 200px;
+  top: 600px;
+}
+#aFortress {
+  left: 200px;
+  top: 600px;
+}
+#aGate {
+  left: 200px;
+  top: 600px;
+}
